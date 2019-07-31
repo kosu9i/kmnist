@@ -1,0 +1,6 @@
+*.log
+model/
+*.csv
+*.model
+nohup.out
+*.swp
